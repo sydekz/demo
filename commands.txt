@@ -1,0 +1,7 @@
+GITHUB
+
+git clone URL
+git status
+git remote -v
+.gitignore
+git push -u origin main 
